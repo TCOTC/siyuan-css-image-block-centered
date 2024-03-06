@@ -1,7 +1,7 @@
 {
-  "name": "siyuan-css-hide-doc-tree-icon",
+  "name": "siyuan-css-image-block-centered",
   "author": "TCOTC",
-  "url": "https://github.com/TCOTC/siyuan-css-hide-doc-tree-icon",
+  "url": "https://github.com/TCOTC/siyuan-css-image-block-centered",
   "version": "0.1.0",
   "backends": [
     "all"
@@ -10,12 +10,12 @@
     "all"
   ],
   "displayName": {
-    "default": "Doc Tree hide icon",
-    "zh_CN": "文档树隐藏图标"
+    "default": "Center image block",
+    "zh_CN": "居中图片块"
   },
   "description": {
-    "default": "Hide the icon in front of the document in the document tree",
-    "zh_CN": "在文档树中隐藏文档前的图标"
+    "default": "Center the blocks containing images in the document",
+    "zh_CN": "居中显示文档中包含图片的块"
   },
   "readme": {
     "default": "README.md",
@@ -30,14 +30,12 @@
     ]
   },
   "keywords": [
-    "文档",
-    "文档树",
-    "隐藏",
-    "图标",
-    "隐藏图标",
-    "doc",
-    "document",
-    "hide",
-    "icon"
+    "居中",
+    "图片",
+    "块",
+    "Center",
+    "image",
+    "block",
+    "picture"
   ]
 }
